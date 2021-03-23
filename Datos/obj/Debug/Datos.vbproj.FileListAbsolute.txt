@@ -203,3 +203,11 @@ C:\Repositorio HS2020\HS2020\SistemaSantaFe\Datos\obj\Debug\Datos.vbproj.Generat
 C:\Repositorio HS2020\HS2020\SistemaSantaFe\Datos\obj\Debug\Datos.dll
 C:\Repositorio HS2020\HS2020\SistemaSantaFe\Datos\obj\Debug\Datos.xml
 C:\Repositorio HS2020\HS2020\SistemaSantaFe\Datos\obj\Debug\Datos.pdb
+C:\Repositorio MDA\MDA_cliente\Datos\bin\Debug\Datos.dll
+C:\Repositorio MDA\MDA_cliente\Datos\bin\Debug\Datos.pdb
+C:\Repositorio MDA\MDA_cliente\Datos\bin\Debug\Datos.xml
+C:\Repositorio MDA\MDA_cliente\Datos\obj\Debug\Datos.Resources.resources
+C:\Repositorio MDA\MDA_cliente\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Repositorio MDA\MDA_cliente\Datos\obj\Debug\Datos.dll
+C:\Repositorio MDA\MDA_cliente\Datos\obj\Debug\Datos.xml
+C:\Repositorio MDA\MDA_cliente\Datos\obj\Debug\Datos.pdb
